@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Samuel Gonzalez Checa
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: Samuel.GonzalezCheca@outlook.com
@@ -45,14 +45,9 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Samuel Gonzalez Checa Resume
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am student at the University of Missouri - Kansas City studying Computer Science B.S. I work as as Shift Leader at Taco Bell and I have interned at Cerner.
 education:
     - degree: Computer Science B.S.
       university: University of Missouri - Kansas City
@@ -136,19 +131,15 @@ skills:
       - name: C++
         level: 90%
 
+      - name: MySQL SQL
+        level: 95%
+
       - name: Javascript
         level: 85%
 
-      - name: Angular
-        level: 98%
-
-      - name: MySQL
-        level: 95%
-
-      - name: MSSQL
+      - name: Agile
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
+      - name: Java
+        level: 70%
+# footer: >
