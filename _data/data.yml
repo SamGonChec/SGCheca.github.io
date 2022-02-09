@@ -107,11 +107,11 @@ projects:
         tagline: "Assisted with the development of the website. I displayed data onto a KendoUI Form by making calls to the SQL Server Database. I did various tasks that involved Full Stack Development, such as displaying links stored in a SQL Server Database and using CSS to show the data properly. I also helped with improving the workflow of the Team Project"
 
       - title: Movie Web Application
-        link: "#"
+        link: "https://github.com/SamGonChec/Movie-Web-App"
         tagline: "Developed and Managed with a team a Movie Web Application. This was for a Database Management Systems class. The Database is ran through MySQL, the server-side was done with Php and the front end was done with HTML and CSS. The Movie Application used a simple algorithmn to determine movies to recommend based on some demographic information."
 
       - title: Nine Mens Morris
-        link: "#"
+        link: "https://github.com/SamGonChec/Nine-Mens-Morris"
         tagline: "A fully working Nine Mens Morris game that was developed using the QT 4.0 GUI. This game has two and one-player features, with a fully functioning AI"
 
     # title: Publications
