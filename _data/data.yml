@@ -61,6 +61,17 @@ education:
       details: |
           - GPA: 3.69
 experiences:
+    - role: Associate Solutions Developer
+      time: December 2021 - Present
+      company: Service Management Group
+      details: |
+          - Integrates services and configures features key to the business.
+          - Creates and maintains documentation.
+          - Participates in technical design and reviews for all new enhancements and maintenance work delivered.
+          - Understands business and functional requirements under guidance of software engineer or senior.
+          - Creates, maintains, and executes custom processes as needed.
+          - Maintains current knowledge on the latest technologies relevant to the role regarding best practices, language, methodology, third-party development tools, application platforms, hardware compatibility and operating systems.
+          - Perform other related duties as assigned. 
     - role: Software Intern
       time: Summer 2021
       company: Cerner Corporation
@@ -71,7 +82,7 @@ experiences:
           - Participate in code reviews, identify issues/deviations from best practices, collaborate on component level technical designs, and write design documentation adhering to software requirements.
           - Own and assist others in debugging and documenting root cause analysis and resolution, identify process improvements at team level to support operations and development ecosystem, provide software release support, and verifying software enhancements through testing.
     - role: Shift Leader
-      time: 2015 - Present
+      time: 2015 - 2021
       company: Taco Bell
       details: |
           - Greet customers in the restaurant or drive-thru
